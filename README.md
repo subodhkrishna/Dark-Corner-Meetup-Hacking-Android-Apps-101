@@ -25,3 +25,6 @@ For mobSF I recommend using a Python virtual environment.
 
 ### ApkTool for disassembling dex file format used by dalvik
 https://ibotpeaches.github.io/Apktool/
+
+### TEST APPS
+https://github.com/OWASP/owasp-mstg/tree/master/Crackmes
